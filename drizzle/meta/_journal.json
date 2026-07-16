@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1783936247637,
+      "tag": "0000_happy_abomination",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1783936426645,
+      "tag": "0001_lean_sheva_callister",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1784007367399,
+      "tag": "0002_round_joshua_kane",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1784105472095,
+      "tag": "0003_fancy_miss_america",
+      "breakpoints": true
+    }
+  ]
+}
